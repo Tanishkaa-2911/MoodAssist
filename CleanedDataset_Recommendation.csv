@@ -1,0 +1,1758 @@
+﻿Mood,Interest,Recommendation
+Surprised,Sports,Share A Workout Related To Sports
+Surprised,Music,Try A Book Related To Music
+Surprised,Reading,Join An Idea Related To Reading
+Surprised,Movies,Join A Playlist Related To Movies
+Surprised,Cooking,Share An Idea Related To Cooking
+Surprised,Cooking,Share An Activity Related To Cooking
+Surprised,Travel,Start An Activity Related To Travel
+Surprised,Cooking,Practice An Activity Related To Cooking
+Surprised,Movies,Start A Recipe Related To Movies
+Surprised,Sports,Practice A Playlist Related To Sports
+Surprised,Travel,Join A Hobby Related To Travel
+Surprised,Music,Practice An Idea Related To Music
+Surprised,Cooking,Discover A Movie Related To Cooking
+Surprised,Gaming,Practice A Book Related To Gaming
+Surprised,Travel,Share A Hobby Related To Travel
+Surprised,Sports,Discover A Hobby Related To Sports
+Surprised,Learning,Explore A Playlist Related To Learning
+Surprised,Cooking,Share A Hobby Related To Cooking
+Surprised,Travel,Practice A Movie Related To Travel
+Surprised,Cooking,Start Something New Related To Cooking
+Surprised,Gaming,Explore An Activity Related To Gaming
+Surprised,Travel,Join A Recipe Related To Travel
+Surprised,Art,Start A Workout Related To Art
+Surprised,Reading,Discover An Idea Related To Reading
+Surprised,Fitness,Create Something New Related To Fitness
+Surprised,Art,Watch A Hobby Related To Art
+Surprised,Movies,Watch A Recipe Related To Movies
+Surprised,Gaming,Discover A Hobby Related To Gaming
+Surprised,Art,Join An Activity Related To Art
+Surprised,Fitness,Discover A Movie Related To Fitness
+Surprised,Gaming,Try An Activity Related To Gaming
+Surprised,Sports,Practice A Book Related To Sports
+Surprised,Cooking,Enjoy A Playlist Related To Cooking
+Surprised,Reading,Explore Something New Related To Reading
+Surprised,Movies,Join Something New Related To Movies
+Surprised,Fitness,Join A Book Related To Fitness
+Surprised,Gaming,Share A Movie Related To Gaming
+Surprised,Cooking,Try A Book Related To Cooking
+Surprised,Sports,Enjoy A Workout Related To Sports
+Surprised,Art,Start A Recipe Related To Art
+Surprised,Music,Create Something New Related To Music
+Surprised,Art,Discover A Recipe Related To Art
+Surprised,Reading,Explore A Book Related To Reading
+Surprised,Art,Enjoy A Hobby Related To Art
+Surprised,Cooking,Share A Workout Related To Cooking
+Surprised,Art,Practice Something New Related To Art
+Surprised,Music,Try Something New Related To Music
+Surprised,Cooking,Try A Hobby Related To Cooking
+Surprised,Learning,Enjoy Something New Related To Learning
+Surprised,Fitness,Start A Class Related To Fitness
+Surprised,Fitness,Watch A Book Related To Fitness
+Surprised,Reading,Share An Activity Related To Reading
+Surprised,Sports,Explore An Activity Related To Sports
+Surprised,Learning,Explore A Workout Related To Learning
+Surprised,Fitness,Start A Playlist Related To Fitness
+Surprised,Sports,Watch A Workout Related To Sports
+Surprised,Movies,Create A Workout Related To Movies
+Surprised,Reading,Start A Workout Related To Reading
+Surprised,Reading,Watch A Movie Related To Reading
+Surprised,Movies,Watch A Playlist Related To Movies
+Surprised,Art,Practice A Playlist Related To Art
+Surprised,Music,Discover A Recipe Related To Music
+Surprised,Movies,Start A Workout Related To Movies
+Surprised,Cooking,Create A Recipe Related To Cooking
+Surprised,Travel,Discover An Idea Related To Travel
+Surprised,Gaming,Create A Book Related To Gaming
+Surprised,Reading,Practice A Book Related To Reading
+Surprised,Reading,Share A Hobby Related To Reading
+Surprised,Cooking,Enjoy A Movie Related To Cooking
+Surprised,Music,Join A Playlist Related To Music
+Surprised,Reading,Start A Recipe Related To Reading
+Surprised,Cooking,Share An Idea Related To Cooking
+Surprised,Art,Explore An Activity Related To Art
+Surprised,Music,Practice A Class Related To Music
+Surprised,Cooking,Share A Workout Related To Cooking
+Surprised,Learning,Discover A Hobby Related To Learning
+Surprised,Cooking,Discover An Idea Related To Cooking
+Surprised,Fitness,Start A Class Related To Fitness
+Surprised,Learning,Join A Playlist Related To Learning
+Surprised,Gaming,Enjoy A Workout Related To Gaming
+Surprised,Art,Explore A Playlist Related To Art
+Surprised,Other,Step Out And Try Something Completely Different
+Surprised,Other,Make A Sudden Plan And Enjoy The Thrill
+Neutral,Music,Explore A Movie Related To Music
+Neutral,Movies,Enjoy A Class Related To Movies
+Neutral,Gaming,Join A Movie Related To Gaming
+Neutral,Gaming,Discover A Movie Related To Gaming
+Neutral,Fitness,Practice A Book Related To Fitness
+Neutral,Gaming,Practice A Playlist Related To Gaming
+Neutral,Fitness,Share An Activity Related To Fitness
+Neutral,Fitness,Explore A Workout Related To Fitness
+Neutral,Fitness,Try An Idea Related To Fitness
+Neutral,Cooking,Practice A Movie Related To Cooking
+Neutral,Travel,Watch A Playlist Related To Travel
+Neutral,Learning,Practice A Playlist Related To Learning
+Neutral,Fitness,Create A Hobby Related To Fitness
+Neutral,Learning,Enjoy A Class Related To Learning
+Neutral,Reading,Explore A Hobby Related To Reading
+Neutral,Music,Enjoy A Book Related To Music
+Neutral,Travel,Enjoy A Recipe Related To Travel
+Neutral,Travel,Enjoy A Workout Related To Travel
+Neutral,Travel,Explore A Workout Related To Travel
+Neutral,Reading,Practice An Activity Related To Reading
+Neutral,Movies,Watch Something New Related To Movies
+Neutral,Music,Discover Something New Related To Music
+Neutral,Reading,Join A Hobby Related To Reading
+Neutral,Gaming,Discover A Class Related To Gaming
+Neutral,Fitness,Watch An Activity Related To Fitness
+Neutral,Travel,Create A Playlist Related To Travel
+Neutral,Art,Explore A Recipe Related To Art
+Neutral,Music,Try A Book Related To Music
+Neutral,Movies,Share An Activity Related To Movies
+Neutral,Cooking,Start A Class Related To Cooking
+Neutral,Travel,Share Something New Related To Travel
+Neutral,Reading,Join A Hobby Related To Reading
+Neutral,Art,Share A Workout Related To Art
+Neutral,Art,Explore A Book Related To Art
+Neutral,Music,Enjoy An Activity Related To Music
+Neutral,Art,Share A Recipe Related To Art
+Neutral,Music,Discover An Activity Related To Music
+Neutral,Cooking,Try A Workout Related To Cooking
+Neutral,Learning,Create An Activity Related To Learning
+Neutral,Cooking,Discover A Class Related To Cooking
+Neutral,Gaming,Join A Workout Related To Gaming
+Neutral,Reading,Discover A Book Related To Reading
+Neutral,Gaming,Try An Idea Related To Gaming
+Neutral,Art,Try An Activity Related To Art
+Neutral,Fitness,Create An Idea Related To Fitness
+Neutral,Art,Try Something New Related To Art
+Neutral,Music,Enjoy An Activity Related To Music
+Neutral,Art,Explore A Hobby Related To Art
+Neutral,Art,Start A Movie Related To Art
+Neutral,Travel,Watch A Book Related To Travel
+Neutral,Gaming,Watch A Book Related To Gaming
+Neutral,Fitness,Explore A Class Related To Fitness
+Neutral,Music,Create A Movie Related To Music
+Neutral,Movies,Share Something New Related To Movies
+Neutral,Music,Enjoy A Class Related To Music
+Neutral,Movies,Share A Workout Related To Movies
+Neutral,Art,Explore An Activity Related To Art
+Neutral,Art,Create An Activity Related To Art
+Neutral,Learning,Explore An Activity Related To Learning
+Neutral,Travel,Watch A Playlist Related To Travel
+Neutral,Art,Start A Playlist Related To Art
+Neutral,Gaming,Explore Something New Related To Gaming
+Neutral,Reading,Enjoy A Movie Related To Reading
+Neutral,Travel,Watch A Workout Related To Travel
+Neutral,Learning,Explore A Book Related To Learning
+Neutral,Art,Watch An Idea Related To Art
+Neutral,Art,Watch A Class Related To Art
+Neutral,Travel,Discover A Class Related To Travel
+Neutral,Travel,Discover An Idea Related To Travel
+Neutral,Art,Watch A Hobby Related To Art
+Neutral,Travel,Share An Idea Related To Travel
+Neutral,Music,Join A Movie Related To Music
+Neutral,Reading,Enjoy An Activity Related To Reading
+Neutral,Fitness,Watch A Playlist Related To Fitness
+Neutral,Reading,Join A Workout Related To Reading
+Neutral,Learning,Try A Class Related To Learning
+Neutral,Gaming,Explore A Movie Related To Gaming
+Neutral,Travel,Enjoy Something New Related To Travel
+Neutral,Sports,Join A Hobby Related To Sports
+Neutral,Fitness,Share A Playlist Related To Fitness
+Neutral,Other,Experiment With Something New And Interesting
+Neutral,Other,Try Out A New Social Activity To Connect Better
+Neutral,Other,Explore A Fresh Perspective With A New Activity
+Neutral,Other,Try An Activity You’Ve Never Imagined Before
+Happy,Gaming,Watch An Activity Related To Gaming
+Happy,Sports,Start A Hobby Related To Sports
+Happy,Learning,Join An Idea Related To Learning
+Happy,Music,Practice An Idea Related To Music
+Happy,Art,Share A Recipe Related To Art
+Happy,Music,Enjoy A Recipe Related To Music
+Happy,Movies,Discover An Idea Related To Movies
+Happy,Music,Start A Movie Related To Music
+Happy,Music,Create A Movie Related To Music
+Happy,Cooking,Start A Playlist Related To Cooking
+Happy,Movies,Share A Workout Related To Movies
+Happy,Movies,Try An Idea Related To Movies
+Happy,Fitness,Try A Class Related To Fitness
+Happy,Travel,Start A Playlist Related To Travel
+Happy,Cooking,Share A Movie Related To Cooking
+Happy,Reading,Practice Something New Related To Reading
+Happy,Reading,Enjoy An Activity Related To Reading
+Happy,Travel,Create A Book Related To Travel
+Happy,Sports,Share A Book Related To Sports
+Happy,Art,Watch A Book Related To Art
+Happy,Travel,Watch A Movie Related To Travel
+Happy,Movies,Create An Activity Related To Movies
+Happy,Learning,Share A Playlist Related To Learning
+Happy,Movies,Discover A Playlist Related To Movies
+Happy,Reading,Practice An Activity Related To Reading
+Happy,Sports,Discover Something New Related To Sports
+Happy,Cooking,Enjoy Something New Related To Cooking
+Happy,Learning,Create An Activity Related To Learning
+Happy,Gaming,Create An Activity Related To Gaming
+Happy,Music,Practice An Activity Related To Music
+Happy,Gaming,Practice A Class Related To Gaming
+Happy,Cooking,Watch A Playlist Related To Cooking
+Happy,Learning,Create A Playlist Related To Learning
+Happy,Learning,Enjoy A Playlist Related To Learning
+Happy,Learning,Try A Movie Related To Learning
+Happy,Art,Create Something New Related To Art
+Happy,Sports,Discover Something New Related To Sports
+Happy,Sports,Enjoy A Class Related To Sports
+Happy,Art,Start Something New Related To Art
+Happy,Travel,Enjoy A Hobby Related To Travel
+Happy,Gaming,Practice A Workout Related To Gaming
+Happy,Cooking,Start A Hobby Related To Cooking
+Happy,Art,Enjoy An Idea Related To Art
+Happy,Movies,Enjoy A Hobby Related To Movies
+Happy,Travel,Practice An Activity Related To Travel
+Happy,Reading,Explore An Idea Related To Reading
+Happy,Reading,Try A Movie Related To Reading
+Happy,Art,Join An Activity Related To Art
+Happy,Travel,Join A Recipe Related To Travel
+Happy,Gaming,Enjoy A Class Related To Gaming
+Happy,Sports,Start A Workout Related To Sports
+Happy,Gaming,Try An Activity Related To Gaming
+Happy,Travel,Practice A Class Related To Travel
+Happy,Movies,Discover An Idea Related To Movies
+Happy,Learning,Discover A Book Related To Learning
+Happy,Art,Discover An Activity Related To Art
+Happy,Sports,Practice A Movie Related To Sports
+Happy,Music,Practice A Class Related To Music
+Happy,Travel,Try An Activity Related To Travel
+Happy,Reading,Discover A Movie Related To Reading
+Happy,Gaming,Start A Class Related To Gaming
+Happy,Reading,Enjoy An Idea Related To Reading
+Happy,Travel,Start A Movie Related To Travel
+Happy,Travel,Practice A Playlist Related To Travel
+Happy,Movies,Enjoy A Workout Related To Movies
+Happy,Reading,Start An Idea Related To Reading
+Happy,Fitness,Join A Class Related To Fitness
+Happy,Reading,Discover A Recipe Related To Reading
+Happy,Gaming,Watch An Activity Related To Gaming
+Happy,Gaming,Join A Book Related To Gaming
+Happy,Movies,Share An Idea Related To Movies
+Happy,Music,Join A Class Related To Music
+Happy,Music,Enjoy A Playlist Related To Music
+Happy,Fitness,Try A Class Related To Fitness
+Happy,Art,Try A Recipe Related To Art
+Happy,Cooking,Join A Recipe Related To Cooking
+Happy,Sports,Try Something New Related To Sports
+Happy,Other,Try A Fun Activity You’Ve Never Done Before
+Happy,Other,Discover A Unique Experience To Boost Your Mood
+Happy,Other,Break Routine And Try Something Innovative
+Happy,Other,Engage In A Random Fun Task To Brighten Your Day
+Sad,Reading,Watch A Hobby Related To Reading
+Sad,Reading,Practice Something New Related To Reading
+Sad,Learning,Join A Workout Related To Learning
+Sad,Learning,Start A Movie Related To Learning
+Sad,Cooking,Join A Playlist Related To Cooking
+Sad,Reading,Discover A Playlist Related To Reading
+Sad,Sports,Discover A Hobby Related To Sports
+Sad,Sports,Watch A Movie Related To Sports
+Sad,Fitness,Try A Movie Related To Fitness
+Sad,Fitness,Try A Book Related To Fitness
+Sad,Music,Discover A Playlist Related To Music
+Sad,Gaming,Practice Something New Related To Gaming
+Sad,Movies,Watch A Movie Related To Movies
+Sad,Sports,Create A Hobby Related To Sports
+Sad,Sports,Discover A Book Related To Sports
+Sad,Art,Enjoy Something New Related To Art
+Sad,Movies,Create A Workout Related To Movies
+Sad,Gaming,Share A Movie Related To Gaming
+Sad,Learning,Practice A Playlist Related To Learning
+Sad,Reading,Create A Workout Related To Reading
+Sad,Fitness,Explore An Activity Related To Fitness
+Sad,Art,Explore An Activity Related To Art
+Sad,Travel,Join An Activity Related To Travel
+Sad,Movies,Try A Workout Related To Movies
+Sad,Travel,Enjoy A Book Related To Travel
+Sad,Travel,Try A Playlist Related To Travel
+Sad,Music,Discover Something New Related To Music
+Sad,Art,Start A Hobby Related To Art
+Sad,Cooking,Explore A Hobby Related To Cooking
+Sad,Cooking,Create A Hobby Related To Cooking
+Sad,Learning,Discover An Idea Related To Learning
+Sad,Sports,Discover A Hobby Related To Sports
+Sad,Learning,Create A Hobby Related To Learning
+Sad,Travel,Join A Book Related To Travel
+Sad,Gaming,Join A Playlist Related To Gaming
+Sad,Movies,Explore A Playlist Related To Movies
+Sad,Sports,Try A Workout Related To Sports
+Sad,Reading,Explore A Movie Related To Reading
+Sad,Gaming,Practice A Workout Related To Gaming
+Sad,Gaming,Try A Recipe Related To Gaming
+Sad,Reading,Explore An Activity Related To Reading
+Sad,Travel,Explore A Playlist Related To Travel
+Sad,Learning,Enjoy An Activity Related To Learning
+Sad,Reading,Share A Hobby Related To Reading
+Sad,Art,Enjoy An Idea Related To Art
+Sad,Learning,Discover Something New Related To Learning
+Sad,Learning,Try An Idea Related To Learning
+Sad,Music,Explore A Class Related To Music
+Sad,Learning,Join An Activity Related To Learning
+Sad,Reading,Join A Class Related To Reading
+Sad,Travel,Create A Movie Related To Travel
+Sad,Cooking,Create Something New Related To Cooking
+Sad,Sports,Create A Class Related To Sports
+Sad,Music,Explore A Book Related To Music
+Sad,Cooking,Watch A Hobby Related To Cooking
+Sad,Art,Start An Activity Related To Art
+Sad,Travel,Share A Hobby Related To Travel
+Sad,Cooking,Start Something New Related To Cooking
+Sad,Movies,Try A Book Related To Movies
+Sad,Movies,Discover A Movie Related To Movies
+Sad,Sports,Create A Class Related To Sports
+Sad,Reading,Start Something New Related To Reading
+Sad,Gaming,Create Something New Related To Gaming
+Sad,Reading,Enjoy A Recipe Related To Reading
+Sad,Other,Indulge In A Calming Experience To Lift Spirits
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Art,Explore A Famous Artist’S Work
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Other,Start A Curiosity Journal
+Neutral,Music,Discover An Emerging Artist
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Movies,Watch A Classic Film
+Happy,Reading,Explore Something Interesting About Reading
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Gaming,Explore Something Interesting About Gaming
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Art,Create A Mini Art Challenge
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Reading,Explore Something Interesting About Reading
+Surprised,Sports,Try A New Sport Drill
+Happy,Sports,Follow An Inspiring Sports Story
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Sports,Track Your Sports Progress
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Sports,Try A New Sport Drill
+Neutral,Other,Learn A Fun Fact Today
+Surprised,Gaming,Explore Something Interesting About Gaming
+Surprised,Sports,Track Your Sports Progress
+Sad,Music,Explore A New Music Genre
+Happy,Music,Try Singing A New Style
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Other,Start A Curiosity Journal
+Happy,Other,Explore Something Outside Your Routine
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Music,Discover An Emerging Artist
+Neutral,Learning,Explore Something Interesting About Learning
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Art,Watch A Tutorial On Art Techniques
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Art,Experiment With New Colors
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Fitness,Join A Fitness Challenge
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Gaming,Explore Something Interesting About Gaming
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Movies,Rewatch A Childhood Favorite
+Surprised,Gaming,Explore Something Interesting About Gaming
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Music,Explore A New Music Genre
+Sad,Fitness,Watch A Motivational Fitness Video
+Neutral,Music,Try Singing A New Style
+Neutral,Fitness,Celebrate A Small Fitness Achievement
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Movies,Rewatch A Childhood Favorite
+Happy,Other,Experiment With A New Skill
+Happy,Other,Discover A New Way To Relax
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Music,Discover An Emerging Artist
+Neutral,Movies,Make A List Of Must-See Films
+Surprised,Music,Create A Playlist With Fresh Songs
+Happy,Movies,Watch A Movie Based On True Events
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Other,Try A New Hobby
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Sports,Practice A Skill In Your Favorite Sport
+Happy,Sports,Practice A Skill In Your Favorite Sport
+Surprised,Other,Try A New Hobby
+Happy,Sports,Try A Virtual Sports Challenge
+Happy,Gaming,Explore Something Interesting About Gaming
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Movies,Join A Movie Discussion Group
+Surprised,Music,Explore A New Music Genre
+Happy,Other,Start A Curiosity Journal
+Surprised,Other,Do Something Spontaneous
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Other,Try A New Hobby
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Try A New Workout Routine
+Surprised,Art,Explore A Famous Artist’S Work
+Sad,Sports,Join A Local Sports Team
+Sad,Music,Learn A Song On An Instrument
+Neutral,Art,Learn About A New Art Style
+Surprised,Sports,Read About A Famous Athlete
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Music,Learn A Song On An Instrument
+Sad,Movies,Make A List Of Must-See Films
+Happy,Gaming,Explore Something Interesting About Gaming
+Happy,Movies,Try A Foreign Film
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Sports,Read About A Famous Athlete
+Surprised,Cooking,Explore Something Interesting About Cooking
+Neutral,Sports,Read About A Famous Athlete
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Learning,Explore Something Interesting About Learning
+Surprised,Other,Start A Curiosity Journal
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Practice Breathing Exercises
+Surprised,Music,Join A Music Appreciation Group
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Other,Learn A Fun Fact Today
+Sad,Art,Start A Sketchbook Project
+Neutral,Fitness,Watch A Motivational Fitness Video
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Other,Read About A New Topic Of Interest
+Neutral,Sports,Join A Local Sports Team
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Movies,Discover An Underrated Movie
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Watch A Classic Film
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Fitness,Experiment With Bodyweight Exercises
+Happy,Movies,Watch A Movie Based On True Events
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Art,Try Digital Drawing Tools
+Surprised,Music,Discover An Emerging Artist
+Happy,Art,Watch A Tutorial On Art Techniques
+Happy,Fitness,Explore A Yoga Flow
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Sports,Join A Local Sports Team
+Surprised,Movies,Make A List Of Must-See Films
+Surprised,Movies,Join A Movie Discussion Group
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Movies,Explore Behind The Scenes Of A Film
+Happy,Art,Use Recycled Materials For Art
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Movies,Write A Short Movie Review
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Music,Try Singing A New Style
+Surprised,Movies,Learn About A Director’S Style
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Art,Use Recycled Materials For Art
+Surprised,Art,Learn About A New Art Style
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Fitness,Do A Quick Stretch Break
+Surprised,Art,Learn About A New Art Style
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Fitness,Watch A Motivational Fitness Video
+Surprised,Art,Create A Mini Art Challenge
+Happy,Fitness,Do A Quick Stretch Break
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Explore A Yoga Flow
+Sad,Movies,Discover An Underrated Movie
+Neutral,Sports,Share Your Sports Experience With Friends
+Happy,Art,Watch A Tutorial On Art Techniques
+Happy,Reading,Explore Something Interesting About Reading
+Sad,Other,Start A Curiosity Journal
+Happy,Art,Learn About A New Art Style
+Neutral,Fitness,Practice Breathing Exercises
+Happy,Fitness,Join A Fitness Challenge
+Happy,Movies,Try A Foreign Film
+Sad,Movies,Discover An Underrated Movie
+Sad,Sports,Read About A Famous Athlete
+Surprised,Art,Use Recycled Materials For Art
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Other,Learn A Fun Fact Today
+Sad,Sports,Track Your Sports Progress
+Happy,Music,Share A Music Recommendation With Friends
+Sad,Other,Join A Random Online Challenge
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Fitness,Try A New Workout Routine
+Surprised,Movies,Rewatch A Childhood Favorite
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Learning,Explore Something Interesting About Learning
+Surprised,Sports,Join A Local Sports Team
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Music,Experiment With Digital Music Tools
+Happy,Gaming,Explore Something Interesting About Gaming
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Music,Read About Music History
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Music,Experiment With Digital Music Tools
+Surprised,Sports,Watch A Game Highlight
+Surprised,Art,Experiment With New Colors
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Other,Do Something Spontaneous
+Surprised,Gaming,Explore Something Interesting About Gaming
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Movies,Learn About A Director’S Style
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Music,Read About Music History
+Sad,Music,Discover An Emerging Artist
+Happy,Movies,Discover An Underrated Movie
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Art,Share Your Artwork Online
+Happy,Learning,Explore Something Interesting About Learning
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Movies,Join A Movie Discussion Group
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Practice Breathing Exercises
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Explore A Yoga Flow
+Neutral,Movies,Write A Short Movie Review
+Surprised,Art,Explore A Famous Artist’S Work
+Happy,Art,Start A Sketchbook Project
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Reading,Explore Something Interesting About Reading
+Neutral,Music,Join A Music Appreciation Group
+Happy,Art,Try Digital Drawing Tools
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Learn About A Director’S Style
+Happy,Reading,Explore Something Interesting About Reading
+Surprised,Fitness,Learn About Nutrition For Fitness
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Sports,Track Your Sports Progress
+Happy,Fitness,Track Your Progress With A Fitness App
+Happy,Other,Explore Something Outside Your Routine
+Surprised,Sports,Try A New Sport Drill
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Gaming,Explore Something Interesting About Gaming
+Neutral,Art,Watch A Tutorial On Art Techniques
+Sad,Sports,Follow An Inspiring Sports Story
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Fitness,Experiment With Bodyweight Exercises
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Neutral,Other,Explore Something Outside Your Routine
+Sad,Sports,Read About A Famous Athlete
+Sad,Sports,Try A New Sport Drill
+Sad,Sports,Follow An Inspiring Sports Story
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Art,Try Digital Drawing Tools
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Other,Join A Random Online Challenge
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Music,Learn A Song On An Instrument
+Neutral,Other,Discover A New Way To Relax
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Music,Read About Music History
+Neutral,Movies,Discover An Underrated Movie
+Happy,Learning,Explore Something Interesting About Learning
+Surprised,Sports,Learn Rules Of A New Sport
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Other,Take A Break And Do Something Different
+Happy,Movies,Discover An Underrated Movie
+Happy,Fitness,Experiment With Bodyweight Exercises
+Surprised,Other,Join A Random Online Challenge
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Music,Try Singing A New Style
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Learning,Explore Something Interesting About Learning
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Sports,Try A Virtual Sports Challenge
+Surprised,Art,Use Recycled Materials For Art
+Happy,Art,Watch A Tutorial On Art Techniques
+Happy,Music,Try Singing A New Style
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Other,Start A Curiosity Journal
+Neutral,Music,Discover An Emerging Artist
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Sad,Fitness,Celebrate A Small Fitness Achievement
+Sad,Fitness,Learn About Nutrition For Fitness
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Fitness,Watch A Motivational Fitness Video
+Happy,Sports,Practice A Skill In Your Favorite Sport
+Surprised,Music,Explore A New Music Genre
+Neutral,Art,Learn About A New Art Style
+Sad,Movies,Learn About A Director’S Style
+Surprised,Cooking,Explore Something Interesting About Cooking
+Happy,Sports,Practice A Skill In Your Favorite Sport
+Happy,Reading,Explore Something Interesting About Reading
+Sad,Movies,Watch A Classic Film
+Happy,Sports,Track Your Sports Progress
+Happy,Other,Experiment With A New Skill
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Fitness,Join A Fitness Challenge
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Sports,Track Your Sports Progress
+Neutral,Fitness,Experiment With Bodyweight Exercises
+Neutral,Movies,Write A Short Movie Review
+Surprised,Movies,Join A Movie Discussion Group
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Other,Start A Curiosity Journal
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Fitness,Try A New Workout Routine
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Gaming,Explore Something Interesting About Gaming
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Fitness,Celebrate A Small Fitness Achievement
+Neutral,Sports,Read About A Famous Athlete
+Happy,Fitness,Do A Quick Stretch Break
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Other,Take A Break And Do Something Different
+Neutral,Fitness,Try A New Workout Routine
+Happy,Music,Share A Music Recommendation With Friends
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Cooking,Explore Something Interesting About Cooking
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Fitness,Track Your Progress With A Fitness App
+Happy,Sports,Share Your Sports Experience With Friends
+Neutral,Sports,Try A New Sport Drill
+Sad,Fitness,Track Your Progress With A Fitness App
+Surprised,Reading,Explore Something Interesting About Reading
+Surprised,Sports,Read About A Famous Athlete
+Surprised,Movies,Rewatch A Childhood Favorite
+Happy,Cooking,Explore Something Interesting About Cooking
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Other,Explore Something Outside Your Routine
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Movies,Discover An Underrated Movie
+Sad,Movies,Discover An Underrated Movie
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Reading,Explore Something Interesting About Reading
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Join A Movie Discussion Group
+Sad,Sports,Watch A Game Highlight
+Neutral,Gaming,Explore Something Interesting About Gaming
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Music,Create A Playlist With Fresh Songs
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Cooking,Explore Something Interesting About Cooking
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Cooking,Explore Something Interesting About Cooking
+Neutral,Music,Create A Playlist With Fresh Songs
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Art,Watch A Tutorial On Art Techniques
+Happy,Sports,Try A Virtual Sports Challenge
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Movies,Watch A Movie Based On True Events
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Fitness,Practice Breathing Exercises
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Happy,Music,Join A Music Appreciation Group
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Cooking,Explore Something Interesting About Cooking
+Happy,Music,Discover An Emerging Artist
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Sports,Track Your Sports Progress
+Happy,Music,Create A Playlist With Fresh Songs
+Surprised,Movies,Learn About A Director’S Style
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Reading,Explore Something Interesting About Reading
+Surprised,Sports,Follow An Inspiring Sports Story
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Movies,Watch A Classic Film
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Gaming,Explore Something Interesting About Gaming
+Neutral,Sports,Follow An Inspiring Sports Story
+Sad,Art,Use Recycled Materials For Art
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Watch A Movie Based On True Events
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Other,Do Something Spontaneous
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Sports,Try A Virtual Sports Challenge
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Movies,Explore Behind The Scenes Of A Film
+Happy,Other,Learn A Fun Fact Today
+Sad,Other,Discover A New Way To Relax
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Fitness,Do A Quick Stretch Break
+Surprised,Movies,Explore Behind The Scenes Of A Film
+Surprised,Other,Take A Break And Do Something Different
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Sports,Join A Local Sports Team
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Music,Discover An Emerging Artist
+Neutral,Movies,Make A List Of Must-See Films
+Surprised,Sports,Practice A Skill In Your Favorite Sport
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Art,Use Recycled Materials For Art
+Happy,Movies,Explore Behind The Scenes Of A Film
+Sad,Other,Join A Random Online Challenge
+Surprised,Gaming,Explore Something Interesting About Gaming
+Surprised,Movies,Write A Short Movie Review
+Happy,Movies,Watch A Classic Film
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Music,Create A Playlist With Fresh Songs
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Fitness,Do A Quick Stretch Break
+Neutral,Other,Try A New Hobby
+Sad,Gaming,Explore Something Interesting About Gaming
+Happy,Other,Try A New Hobby
+Neutral,Art,Explore A Famous Artist’S Work
+Surprised,Cooking,Explore Something Interesting About Cooking
+Happy,Gaming,Explore Something Interesting About Gaming
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Music,Experiment With Digital Music Tools
+Surprised,Fitness,Do A Quick Stretch Break
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Gaming,Explore Something Interesting About Gaming
+Happy,Movies,Discover An Underrated Movie
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Fitness,Join A Fitness Challenge
+Surprised,Music,Explore A New Music Genre
+Happy,Fitness,Experiment With Bodyweight Exercises
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Music,Try Singing A New Style
+Sad,Other,Join A Random Online Challenge
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Music,Discover An Emerging Artist
+Neutral,Movies,Explore Behind The Scenes Of A Film
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Other,Join A Random Online Challenge
+Happy,Music,Create A Playlist With Fresh Songs
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Art,Create A Mini Art Challenge
+Surprised,Gaming,Explore Something Interesting About Gaming
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Movies,Write A Short Movie Review
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Movies,Watch A Classic Film
+Surprised,Art,Create A Mini Art Challenge
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Art,Try Digital Drawing Tools
+Surprised,Cooking,Explore Something Interesting About Cooking
+Neutral,Other,Take A Break And Do Something Different
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Reading,Explore Something Interesting About Reading
+Sad,Fitness,Practice Breathing Exercises
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Sports,Try A Virtual Sports Challenge
+Surprised,Movies,Make A List Of Must-See Films
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Gaming,Explore Something Interesting About Gaming
+Happy,Sports,Share Your Sports Experience With Friends
+Happy,Movies,Make A List Of Must-See Films
+Sad,Other,Explore Something Outside Your Routine
+Sad,Art,Learn About A New Art Style
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Other,Start A Curiosity Journal
+Surprised,Art,Visit An Online Art Gallery
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Art,Try Digital Drawing Tools
+Happy,Fitness,Do A Quick Stretch Break
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Music,Explore A New Music Genre
+Neutral,Music,Create A Playlist With Fresh Songs
+Sad,Gaming,Explore Something Interesting About Gaming
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Movies,Rewatch A Childhood Favorite
+Sad,Other,Read About A New Topic Of Interest
+Happy,Art,Experiment With New Colors
+Surprised,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Fitness,Watch A Motivational Fitness Video
+Neutral,Fitness,Learn About Nutrition For Fitness
+Surprised,Art,Visit An Online Art Gallery
+Neutral,Movies,Join A Movie Discussion Group
+Happy,Music,Learn A Song On An Instrument
+Sad,Art,Explore A Famous Artist’S Work
+Happy,Reading,Explore Something Interesting About Reading
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Sports,Share Your Sports Experience With Friends
+Sad,Music,Try Singing A New Style
+Neutral,Art,Experiment With New Colors
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Other,Start A Curiosity Journal
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Music,Share A Music Recommendation With Friends
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Music,Learn A Song On An Instrument
+Sad,Art,Explore A Famous Artist’S Work
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Other,Learn A Fun Fact Today
+Surprised,Learning,Explore Something Interesting About Learning
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Movies,Learn About A Director’S Style
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Other,Take A Break And Do Something Different
+Surprised,Sports,Practice A Skill In Your Favorite Sport
+Sad,Movies,Discover An Underrated Movie
+Surprised,Other,Try A New Hobby
+Surprised,Movies,Join A Movie Discussion Group
+Neutral,Art,Visit An Online Art Gallery
+Happy,Fitness,Do A Quick Stretch Break
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Other,Join A Random Online Challenge
+Surprised,Movies,Watch A Movie Based On True Events
+Neutral,Art,Share Your Artwork Online
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Other,Start A Curiosity Journal
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Other,Explore Something Outside Your Routine
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Movies,Watch A Movie Based On True Events
+Sad,Music,Experiment With Digital Music Tools
+Sad,Sports,Practice A Skill In Your Favorite Sport
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Music,Join A Music Appreciation Group
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Fitness,Watch A Motivational Fitness Video
+Happy,Fitness,Track Your Progress With A Fitness App
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Fitness,Try A New Workout Routine
+Happy,Art,Try Digital Drawing Tools
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Art,Start A Sketchbook Project
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Fitness,Celebrate A Small Fitness Achievement
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Other,Try A New Hobby
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Fitness,Learn About Nutrition For Fitness
+Sad,Art,Visit An Online Art Gallery
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Fitness,Learn About Nutrition For Fitness
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Movies,Rewatch A Childhood Favorite
+Neutral,Other,Do Something Spontaneous
+Happy,Sports,Watch A Game Highlight
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Music,Try Singing A New Style
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Art,Learn About A New Art Style
+Neutral,Other,Experiment With A New Skill
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Movies,Write A Short Movie Review
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Art,Watch A Tutorial On Art Techniques
+Sad,Sports,Try A Virtual Sports Challenge
+Surprised,Fitness,Try A New Workout Routine
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Music,Share A Music Recommendation With Friends
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Art,Start A Sketchbook Project
+Neutral,Learning,Explore Something Interesting About Learning
+Sad,Sports,Share Your Sports Experience With Friends
+Surprised,Sports,Read About A Famous Athlete
+Sad,Music,Create A Playlist With Fresh Songs
+Happy,Sports,Try A New Sport Drill
+Sad,Sports,Share Your Sports Experience With Friends
+Neutral,Learning,Explore Something Interesting About Learning
+Sad,Music,Learn A Song On An Instrument
+Sad,Music,Share A Music Recommendation With Friends
+Neutral,Music,Read About Music History
+Happy,Music,Explore A New Music Genre
+Neutral,Fitness,Do A Quick Stretch Break
+Neutral,Music,Experiment With Digital Music Tools
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Other,Try A New Hobby
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Sports,Join A Local Sports Team
+Happy,Music,Join A Music Appreciation Group
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Sports,Track Your Sports Progress
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Sports,Track Your Sports Progress
+Happy,Music,Experiment With Digital Music Tools
+Surprised,Reading,Explore Something Interesting About Reading
+Neutral,Sports,Track Your Sports Progress
+Sad,Movies,Join A Movie Discussion Group
+Sad,Sports,Read About A Famous Athlete
+Happy,Fitness,Learn About Nutrition For Fitness
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Reading,Explore Something Interesting About Reading
+Sad,Fitness,Do A Quick Stretch Break
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Cooking,Explore Something Interesting About Cooking
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Other,Experiment With A New Skill
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Music,Explore A New Music Genre
+Sad,Art,Learn About A New Art Style
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Other,Start A Curiosity Journal
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Other,Read About A New Topic Of Interest
+Neutral,Sports,Learn Rules Of A New Sport
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Reading,Explore Something Interesting About Reading
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Other,Read About A New Topic Of Interest
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Art,Use Recycled Materials For Art
+Surprised,Movies,Learn About A Director’S Style
+Happy,Music,Create A Playlist With Fresh Songs
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Other,Start A Curiosity Journal
+Neutral,Movies,Discover An Underrated Movie
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Gaming,Explore Something Interesting About Gaming
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Art,Start A Sketchbook Project
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Art,Start A Sketchbook Project
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Other,Try A New Hobby
+Happy,Music,Discover An Emerging Artist
+Sad,Music,Explore A New Music Genre
+Happy,Sports,Track Your Sports Progress
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Gaming,Explore Something Interesting About Gaming
+Surprised,Gaming,Explore Something Interesting About Gaming
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Other,Learn A Fun Fact Today
+Happy,Fitness,Learn About Nutrition For Fitness
+Sad,Cooking,Explore Something Interesting About Cooking
+Sad,Cooking,Explore Something Interesting About Cooking
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Movies,Rewatch A Childhood Favorite
+Neutral,Sports,Read About A Famous Athlete
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Sports,Try A New Sport Drill
+Surprised,Movies,Write A Short Movie Review
+Sad,Cooking,Explore Something Interesting About Cooking
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Fitness,Celebrate A Small Fitness Achievement
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Movies,Join A Movie Discussion Group
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Fitness,Practice Breathing Exercises
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Music,Discover An Emerging Artist
+Sad,Other,Start A Curiosity Journal
+Surprised,Music,Attend A Virtual Concert
+Sad,Movies,Try A Foreign Film
+Sad,Art,Try Digital Drawing Tools
+Neutral,Music,Share A Music Recommendation With Friends
+Sad,Movies,Make A List Of Must-See Films
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Other,Join A Random Online Challenge
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Sports,Join A Local Sports Team
+Surprised,Sports,Read About A Famous Athlete
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Music,Join A Music Appreciation Group
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Movies,Discover An Underrated Movie
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Watch A Motivational Fitness Video
+Sad,Music,Read About Music History
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Other,Learn A Fun Fact Today
+Neutral,Art,Watch A Tutorial On Art Techniques
+Happy,Learning,Explore Something Interesting About Learning
+Happy,Movies,Join A Movie Discussion Group
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Music,Experiment With Digital Music Tools
+Sad,Reading,Explore Something Interesting About Reading
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Art,Use Recycled Materials For Art
+Sad,Sports,Practice A Skill In Your Favorite Sport
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Music,Read About Music History
+Sad,Fitness,Do A Quick Stretch Break
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Neutral,Gaming,Explore Something Interesting About Gaming
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Movies,Explore Behind The Scenes Of A Film
+Neutral,Sports,Track Your Sports Progress
+Surprised,Cooking,Explore Something Interesting About Cooking
+Neutral,Music,Try Singing A New Style
+Happy,Gaming,Explore Something Interesting About Gaming
+Happy,Sports,Share Your Sports Experience With Friends
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Art,Visit An Online Art Gallery
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Music,Learn A Song On An Instrument
+Happy,Sports,Try A New Sport Drill
+Surprised,Sports,Try A New Sport Drill
+Sad,Sports,Track Your Sports Progress
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Sports,Follow An Inspiring Sports Story
+Happy,Other,Take A Break And Do Something Different
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Sports,Join A Local Sports Team
+Happy,Other,Join A Random Online Challenge
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Fitness,Join A Fitness Challenge
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Other,Learn A Fun Fact Today
+Surprised,Sports,Practice A Skill In Your Favorite Sport
+Happy,Sports,Try A Virtual Sports Challenge
+Happy,Music,Learn A Song On An Instrument
+Sad,Sports,Share Your Sports Experience With Friends
+Surprised,Music,Experiment With Digital Music Tools
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Art,Watch A Tutorial On Art Techniques
+Sad,Other,Take A Break And Do Something Different
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Art,Use Recycled Materials For Art
+Happy,Fitness,Track Your Progress With A Fitness App
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Music,Create A Playlist With Fresh Songs
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Art,Create A Mini Art Challenge
+Surprised,Music,Experiment With Digital Music Tools
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Art,Use Recycled Materials For Art
+Neutral,Art,Visit An Online Art Gallery
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Art,Learn About A New Art Style
+Sad,Movies,Make A List Of Must-See Films
+Sad,Other,Start A Curiosity Journal
+Sad,Fitness,Experiment With Bodyweight Exercises
+Surprised,Fitness,Watch A Motivational Fitness Video
+Happy,Music,Share A Music Recommendation With Friends
+Neutral,Movies,Watch A Movie Based On True Events
+Neutral,Other,Start A Curiosity Journal
+Surprised,Fitness,Explore A Yoga Flow
+Surprised,Other,Try A New Hobby
+Surprised,Music,Share A Music Recommendation With Friends
+Sad,Other,Explore Something Outside Your Routine
+Sad,Sports,Share Your Sports Experience With Friends
+Neutral,Movies,Write A Short Movie Review
+Sad,Fitness,Practice Breathing Exercises
+Surprised,Art,Explore A Famous Artist’S Work
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Fitness,Practice Breathing Exercises
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Movies,Make A List Of Must-See Films
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Art,Watch A Tutorial On Art Techniques
+Surprised,Cooking,Explore Something Interesting About Cooking
+Happy,Gaming,Explore Something Interesting About Gaming
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Make A List Of Must-See Films
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Movies,Discover An Underrated Movie
+Neutral,Movies,Learn About A Director’S Style
+Happy,Music,Read About Music History
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Fitness,Try A New Workout Routine
+Happy,Fitness,Practice Breathing Exercises
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Movies,Watch A Movie Based On True Events
+Happy,Fitness,Celebrate A Small Fitness Achievement
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Art,Start A Sketchbook Project
+Sad,Sports,Try A Virtual Sports Challenge
+Surprised,Other,Start A Curiosity Journal
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Music,Join A Music Appreciation Group
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Art,Learn About A New Art Style
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Fitness,Celebrate A Small Fitness Achievement
+Surprised,Other,Explore Something Outside Your Routine
+Neutral,Other,Try A New Hobby
+Sad,Other,Discover A New Way To Relax
+Sad,Other,Try A New Hobby
+Sad,Art,Experiment With New Colors
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Movies,Watch A Classic Film
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Other,Do Something Spontaneous
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Fitness,Join A Fitness Challenge
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Other,Do Something Spontaneous
+Neutral,Sports,Try A Virtual Sports Challenge
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Art,Watch A Tutorial On Art Techniques
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Fitness,Join A Fitness Challenge
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Art,Learn About A New Art Style
+Neutral,Fitness,Track Your Progress With A Fitness App
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Sports,Track Your Sports Progress
+Happy,Reading,Explore Something Interesting About Reading
+Sad,Music,Learn A Song On An Instrument
+Sad,Art,Start A Sketchbook Project
+Happy,Movies,Explore Behind The Scenes Of A Film
+Sad,Fitness,Join A Fitness Challenge
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Other,Start A Curiosity Journal
+Sad,Music,Join A Music Appreciation Group
+Surprised,Art,Explore A Famous Artist’S Work
+Happy,Music,Discover An Emerging Artist
+Sad,Sports,Track Your Sports Progress
+Surprised,Sports,Track Your Sports Progress
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Art,Create A Mini Art Challenge
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Music,Join A Music Appreciation Group
+Neutral,Other,Join A Random Online Challenge
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Other,Experiment With A New Skill
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Sports,Watch A Game Highlight
+Happy,Reading,Explore Something Interesting About Reading
+Surprised,Movies,Watch A Classic Film
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Celebrate A Small Fitness Achievement
+Surprised,Art,Use Recycled Materials For Art
+Sad,Other,Take A Break And Do Something Different
+Happy,Music,Try Singing A New Style
+Surprised,Movies,Explore Behind The Scenes Of A Film
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Music,Explore A New Music Genre
+Happy,Music,Discover An Emerging Artist
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Sports,Try A Virtual Sports Challenge
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Sports,Share Your Sports Experience With Friends
+Surprised,Sports,Watch A Game Highlight
+Neutral,Reading,Explore Something Interesting About Reading
+Surprised,Movies,Rewatch A Childhood Favorite
+Happy,Movies,Discover An Underrated Movie
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Fitness,Practice Breathing Exercises
+Surprised,Music,Join A Music Appreciation Group
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Art,Experiment With New Colors
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Fitness,Do A Quick Stretch Break
+Sad,Music,Create A Playlist With Fresh Songs
+Sad,Sports,Try A Virtual Sports Challenge
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Art,Use Recycled Materials For Art
+Neutral,Sports,Try A Virtual Sports Challenge
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Learn About Nutrition For Fitness
+Happy,Music,Explore A New Music Genre
+Surprised,Travel,Explore Something Interesting About Travel
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Music,Join A Music Appreciation Group
+Sad,Movies,Write A Short Movie Review
+Surprised,Music,Join A Music Appreciation Group
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Art,Experiment With New Colors
+Surprised,Sports,Try A New Sport Drill
+Sad,Movies,Watch A Movie Based On True Events
+Sad,Fitness,Join A Fitness Challenge
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Art,Share Your Artwork Online
+Neutral,Movies,Make A List Of Must-See Films
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Fitness,Join A Fitness Challenge
+Surprised,Music,Attend A Virtual Concert
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Reading,Explore Something Interesting About Reading
+Sad,Music,Experiment With Digital Music Tools
+Surprised,Music,Attend A Virtual Concert
+Surprised,Art,Experiment With New Colors
+Surprised,Sports,Track Your Sports Progress
+Neutral,Music,Share A Music Recommendation With Friends
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Sports,Join A Local Sports Team
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Practice Breathing Exercises
+Surprised,Sports,Watch A Game Highlight
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Movies,Rewatch A Childhood Favorite
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Learning,Explore Something Interesting About Learning
+Happy,Other,Learn A Fun Fact Today
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Movies,Discover An Underrated Movie
+Happy,Other,Experiment With A New Skill
+Happy,Fitness,Experiment With Bodyweight Exercises
+Happy,Fitness,Join A Fitness Challenge
+Neutral,Fitness,Explore A Yoga Flow
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Movies,Watch A Movie Based On True Events
+Happy,Learning,Explore Something Interesting About Learning
+Happy,Learning,Explore Something Interesting About Learning
+Happy,Sports,Read About A Famous Athlete
+Surprised,Sports,Watch A Game Highlight
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Sports,Follow An Inspiring Sports Story
+Neutral,Art,Try Digital Drawing Tools
+Surprised,Music,Share A Music Recommendation With Friends
+Surprised,Art,Watch A Tutorial On Art Techniques
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Art,Experiment With New Colors
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Fitness,Experiment With Bodyweight Exercises
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Music,Join A Music Appreciation Group
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Movies,Learn About A Director’S Style
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Music,Explore A New Music Genre
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Reading,Explore Something Interesting About Reading
+Neutral,Fitness,Celebrate A Small Fitness Achievement
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Art,Experiment With New Colors
+Surprised,Music,Learn A Song On An Instrument
+Neutral,Fitness,Explore A Yoga Flow
+Neutral,Art,Explore A Famous Artist’S Work
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Sports,Watch A Game Highlight
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Music,Join A Music Appreciation Group
+Happy,Fitness,Learn About Nutrition For Fitness
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Fitness,Explore A Yoga Flow
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Music,Attend A Virtual Concert
+Happy,Music,Explore A New Music Genre
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Explore A Yoga Flow
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Art,Learn About A New Art Style
+Neutral,Movies,Try A Foreign Film
+Happy,Music,Explore A New Music Genre
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Music,Join A Music Appreciation Group
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Sports,Learn Rules Of A New Sport
+Neutral,Art,Create A Mini Art Challenge
+Neutral,Sports,Practice A Skill In Your Favorite Sport
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Sports,Watch A Game Highlight
+Happy,Other,Read About A New Topic Of Interest
+Sad,Sports,Try A New Sport Drill
+Surprised,Music,Explore A New Music Genre
+Happy,Other,Start A Curiosity Journal
+Happy,Fitness,Join A Fitness Challenge
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Music,Create A Playlist With Fresh Songs
+Surprised,Other,Experiment With A New Skill
+Neutral,Music,Try Singing A New Style
+Happy,Sports,Track Your Sports Progress
+Surprised,Fitness,Do A Quick Stretch Break
+Neutral,Art,Visit An Online Art Gallery
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Reading,Explore Something Interesting About Reading
+Sad,Art,Watch A Tutorial On Art Techniques
+Surprised,Sports,Watch A Game Highlight
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Reading,Explore Something Interesting About Reading
+Neutral,Fitness,Try A New Workout Routine
+Happy,Fitness,Explore A Yoga Flow
+Happy,Fitness,Learn About Nutrition For Fitness
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Movies,Learn About A Director’S Style
+Surprised,Gaming,Explore Something Interesting About Gaming
+Neutral,Sports,Follow An Inspiring Sports Story
+Surprised,Learning,Explore Something Interesting About Learning
+Surprised,Music,Discover An Emerging Artist
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Other,Do Something Spontaneous
+Surprised,Art,Start A Sketchbook Project
+Surprised,Reading,Explore Something Interesting About Reading
+Surprised,Other,Start A Curiosity Journal
+Sad,Music,Experiment With Digital Music Tools
+Neutral,Sports,Learn Rules Of A New Sport
+Sad,Movies,Try A Foreign Film
+Surprised,Movies,Watch A Movie Based On True Events
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Sad,Sports,Watch A Game Highlight
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Fitness,Explore A Yoga Flow
+Surprised,Fitness,Track Your Progress With A Fitness App
+Surprised,Other,Try A New Hobby
+Surprised,Movies,Make A List Of Must-See Films
+Neutral,Music,Create A Playlist With Fresh Songs
+Neutral,Learning,Explore Something Interesting About Learning
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Cooking,Explore Something Interesting About Cooking
+Sad,Cooking,Explore Something Interesting About Cooking
+Sad,Fitness,Celebrate A Small Fitness Achievement
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Sports,Practice A Skill In Your Favorite Sport
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Fitness,Watch A Motivational Fitness Video
+Neutral,Movies,Try A Foreign Film
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Learning,Explore Something Interesting About Learning
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Cooking,Explore Something Interesting About Cooking
+Sad,Fitness,Watch A Motivational Fitness Video
+Surprised,Fitness,Try A New Workout Routine
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Art,Learn About A New Art Style
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Movies,Learn About A Director’S Style
+Surprised,Other,Try A New Hobby
+Surprised,Sports,Try A Virtual Sports Challenge
+Happy,Movies,Try A Foreign Film
+Sad,Art,Visit An Online Art Gallery
+Happy,Gaming,Explore Something Interesting About Gaming
+Happy,Gaming,Explore Something Interesting About Gaming
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Music,Join A Music Appreciation Group
+Happy,Fitness,Join A Fitness Challenge
+Surprised,Movies,Rewatch A Childhood Favorite
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Other,Do Something Spontaneous
+Neutral,Fitness,Experiment With Bodyweight Exercises
+Surprised,Reading,Explore Something Interesting About Reading
+Surprised,Art,Try Digital Drawing Tools
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Other,Discover A New Way To Relax
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Art,Visit An Online Art Gallery
+Happy,Music,Join A Music Appreciation Group
+Surprised,Reading,Explore Something Interesting About Reading
+Surprised,Gaming,Explore Something Interesting About Gaming
+Surprised,Music,Share A Music Recommendation With Friends
+Neutral,Music,Discover An Emerging Artist
+Surprised,Music,Read About Music History
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Travel,Explore Something Interesting About Travel
+Sad,Movies,Join A Movie Discussion Group
+Sad,Art,Experiment With New Colors
+Surprised,Music,Create A Playlist With Fresh Songs
+Happy,Art,Start A Sketchbook Project
+Happy,Travel,Explore Something Interesting About Travel
+Surprised,Fitness,Try A New Workout Routine
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Music,Try Singing A New Style
+Sad,Art,Visit An Online Art Gallery
+Neutral,Movies,Learn About A Director’S Style
+Happy,Movies,Rewatch A Childhood Favorite
+Neutral,Fitness,Track Your Progress With A Fitness App
+Happy,Art,Visit An Online Art Gallery
+Surprised,Fitness,Track Your Progress With A Fitness App
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Sports,Join A Local Sports Team
+Surprised,Music,Experiment With Digital Music Tools
+Surprised,Sports,Track Your Sports Progress
+Sad,Fitness,Try A New Workout Routine
+Happy,Fitness,Practice Breathing Exercises
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Gaming,Explore Something Interesting About Gaming
+Neutral,Movies,Explore Behind The Scenes Of A Film
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Art,Learn About A New Art Style
+Sad,Sports,Watch A Game Highlight
+Neutral,Other,Explore Something Outside Your Routine
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Sports,Share Your Sports Experience With Friends
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Other,Discover A New Way To Relax
+Sad,Art,Use Recycled Materials For Art
+Happy,Movies,Learn About A Director’S Style
+Happy,Reading,Explore Something Interesting About Reading
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Learning,Explore Something Interesting About Learning
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Sports,Track Your Sports Progress
+Surprised,Cooking,Explore Something Interesting About Cooking
+Happy,Other,Join A Random Online Challenge
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Other,Take A Break And Do Something Different
+Surprised,Art,Create A Mini Art Challenge
+Surprised,Cooking,Explore Something Interesting About Cooking
+Surprised,Cooking,Explore Something Interesting About Cooking
+Happy,Movies,Learn About A Director’S Style
+Surprised,Other,Join A Random Online Challenge
+Sad,Art,Try Digital Drawing Tools
+Neutral,Music,Read About Music History
+Happy,Sports,Watch A Game Highlight
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Cooking,Explore Something Interesting About Cooking
+Happy,Travel,Explore Something Interesting About Travel
+Neutral,Art,Explore A Famous Artist’S Work
+Sad,Travel,Explore Something Interesting About Travel
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Other,Explore Something Outside Your Routine
+Neutral,Music,Share A Music Recommendation With Friends
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Cooking,Explore Something Interesting About Cooking
+Surprised,Movies,Make A List Of Must-See Films
+Happy,Movies,Learn About A Director’S Style
+Surprised,Art,Use Recycled Materials For Art
+Sad,Other,Discover A New Way To Relax
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Sports,Share Your Sports Experience With Friends
+Happy,Other,Read About A New Topic Of Interest
+Happy,Other,Experiment With A New Skill
+Surprised,Movies,Make A List Of Must-See Films
+Sad,Art,Experiment With New Colors
+Neutral,Art,Experiment With New Colors
+Sad,Art,Use Recycled Materials For Art
+Neutral,Art,Experiment With New Colors
+Surprised,Music,Learn A Song On An Instrument
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Movies,Write A Short Movie Review
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Learning,Explore Something Interesting About Learning
+Happy,Art,Share Your Artwork Online
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Music,Learn A Song On An Instrument
+Surprised,Movies,Learn About A Director’S Style
+Neutral,Learning,Explore Something Interesting About Learning
+Sad,Travel,Explore Something Interesting About Travel
+Sad,Gaming,Explore Something Interesting About Gaming
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Fitness,Celebrate A Small Fitness Achievement
+Sad,Movies,Watch A Classic Film
+Happy,Sports,Track Your Sports Progress
+Happy,Sports,Try A Virtual Sports Challenge
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Sports,Watch A Game Highlight
+Happy,Gaming,Explore Something Interesting About Gaming
+Surprised,Sports,Join A Local Sports Team
+Neutral,Art,Try Digital Drawing Tools
+Surprised,Music,Read About Music History
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Other,Read About A New Topic Of Interest
+Surprised,Cooking,Explore Something Interesting About Cooking
+Neutral,Cooking,Explore Something Interesting About Cooking
+Sad,Other,Read About A New Topic Of Interest
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Music,Discover An Emerging Artist
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Other,Start A Curiosity Journal
+Neutral,Sports,Join A Local Sports Team
+Sad,Other,Join A Random Online Challenge
+Sad,Fitness,Join A Fitness Challenge
+Surprised,Other,Try A New Hobby
+Happy,Art,Explore A Famous Artist’S Work
+Sad,Sports,Try A Virtual Sports Challenge
+Neutral,Gaming,Explore Something Interesting About Gaming
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Learning,Explore Something Interesting About Learning
+Surprised,Fitness,Celebrate A Small Fitness Achievement
+Surprised,Sports,Track Your Sports Progress
+Neutral,Fitness,Do A Quick Stretch Break
+Happy,Fitness,Watch A Motivational Fitness Video
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Movies,Watch A Classic Film
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Fitness,Experiment With Bodyweight Exercises
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Cooking,Explore Something Interesting About Cooking
+Neutral,Travel,Explore Something Interesting About Travel
+Surprised,Art,Share Your Artwork Online
+Happy,Travel,Explore Something Interesting About Travel
+Happy,Music,Join A Music Appreciation Group
+Sad,Sports,Track Your Sports Progress
+Surprised,Movies,Try A Foreign Film
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Sad,Fitness,Learn About Nutrition For Fitness
+Surprised,Travel,Explore Something Interesting About Travel
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Movies,Learn About A Director’S Style
+Sad,Fitness,Track Your Progress With A Fitness App
+Happy,Gaming,Explore Something Interesting About Gaming
+Happy,Learning,Explore Something Interesting About Learning
+Surprised,Music,Share A Music Recommendation With Friends
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Gaming,Explore Something Interesting About Gaming
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Art,Share Your Artwork Online
+Surprised,Movies,Rewatch A Childhood Favorite
+Happy,Movies,Make A List Of Must-See Films
+Neutral,Other,Read About A New Topic Of Interest
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Art,Learn About A New Art Style
+Surprised,Sports,Read About A Famous Athlete
+Neutral,Movies,Explore Behind The Scenes Of A Film
+Neutral,Art,Try Digital Drawing Tools
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Sports,Try A New Sport Drill
+Sad,Sports,Read About A Famous Athlete
+Sad,Fitness,Track Your Progress With A Fitness App
+Surprised,Gaming,Explore Something Interesting About Gaming
+Happy,Movies,Join A Movie Discussion Group
+Sad,Fitness,Experiment With Bodyweight Exercises
+Surprised,Reading,Explore Something Interesting About Reading
+Happy,Fitness,Join A Fitness Challenge
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Music,Explore A New Music Genre
+Neutral,Fitness,Join A Fitness Challenge
+Surprised,Other,Do Something Spontaneous
+Surprised,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Write A Short Movie Review
+Sad,Fitness,Learn About Nutrition For Fitness
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Fitness,Practice Breathing Exercises
+Sad,Cooking,Explore Something Interesting About Cooking
+Happy,Fitness,Watch A Motivational Fitness Video
+Neutral,Other,Experiment With A New Skill
+Neutral,Cooking,Explore Something Interesting About Cooking
+Happy,Movies,Explore Behind The Scenes Of A Film
+Happy,Other,Read About A New Topic Of Interest
+Happy,Reading,Explore Something Interesting About Reading
+Happy,Sports,Practice A Skill In Your Favorite Sport
+Sad,Reading,Explore Something Interesting About Reading
+Neutral,Cooking,Explore Something Interesting About Cooking
+Neutral,Fitness,Join A Fitness Challenge
+Neutral,Learning,Explore Something Interesting About Learning
+Surprised,Art,Start A Sketchbook Project
+Happy,Learning,Explore Something Interesting About Learning
+Neutral,Cooking,Explore Something Interesting About Cooking
+Surprised,Fitness,Experiment With Bodyweight Exercises
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Fitness,Practice Breathing Exercises
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Movies,Make A List Of Must-See Films
+Neutral,Reading,Explore Something Interesting About Reading
+Happy,Movies,Join A Movie Discussion Group
+Sad,Reading,Explore Something Interesting About Reading
+Sad,Gaming,Explore Something Interesting About Gaming
+Surprised,Movies,Discover An Underrated Movie
+Sad,Fitness,Explore A Yoga Flow
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Movies,Try A Foreign Film
+Happy,Sports,Join A Local Sports Team
+Neutral,Reading,Explore Something Interesting About Reading
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Art,Create A Mini Art Challenge
+Happy,Movies,Learn About A Director’S Style
+Surprised,Movies,Discover An Underrated Movie
+Happy,Art,Experiment With New Colors
+Happy,Fitness,Experiment With Bodyweight Exercises
+Neutral,Travel,Explore Something Interesting About Travel
+Happy,Music,Share A Music Recommendation With Friends
+Sad,Other,Try A New Hobby
+Sad,Other,Discover A New Way To Relax
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Sad,Art,Experiment With New Colors
+Surprised,Cooking,Explore Something Interesting About Cooking
+Surprised,Sports,Practice A Skill In Your Favorite Sport
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Movies,Learn About A Director’S Style
+Sad,Travel,Explore Something Interesting About Travel
+Surprised,Other,Try A New Hobby
+Sad,Reading,Explore Something Interesting About Reading
+Sad,Travel,Explore Something Interesting About Travel
+Happy,Art,Share Your Artwork Online
+Surprised,Travel,Explore Something Interesting About Travel
+Happy,Cooking,Explore Something Interesting About Cooking
+Happy,Learning,Explore Something Interesting About Learning
+Happy,Learning,Explore Something Interesting About Learning
+Sad,Fitness,Practice Breathing Exercises
+Sad,Other,Experiment With A New Skill
+Sad,Reading,Explore Something Interesting About Reading
+Surprised,Sports,Track Your Sports Progress
+Surprised,Sports,Learn Rules Of A New Sport
+Sad,Cooking,Explore Something Interesting About Cooking
+Surprised,Music,Learn A Song On An Instrument
+Surprised,Movies,Make A List Of Must-See Films
+Surprised,Gaming,Explore Something Interesting About Gaming
+Sad,Music,Share A Music Recommendation With Friends
+Neutral,Travel,Explore Something Interesting About Travel
+Neutral,Learning,Explore Something Interesting About Learning
+Neutral,Music,Join A Music Appreciation Group
+Surprised,Music,Share A Music Recommendation With Friends
+Surprised,Fitness,Join A Fitness Challenge
+Surprised,Learning,Explore Something Interesting About Learning
+Neutral,Gaming,Explore Something Interesting About Gaming
+Sad,Learning,Explore Something Interesting About Learning
+Neutral,Other,Learn A Fun Fact Today
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Reading,Explore Something Interesting About Reading
+Neutral,Gaming,Explore Something Interesting About Gaming
+Happy,Music,Attend A Virtual Concert
+Sad,Music,Try Singing A New Style
+Happy,Movies,Explore Behind The Scenes Of A Film
+Happy,Movies,Rewatch A Childhood Favorite
+Surprised,Learning,Explore Something Interesting About Learning
+Happy,Art,Visit An Online Art Gallery
+Happy,Sports,Read About A Famous Athlete
+Surprised,Reading,Explore Something Interesting About Reading
+Sad,Cooking,Explore Something Interesting About Cooking
+Neutral,Movies,Explore Behind The Scenes Of A Film
+Surprised,Fitness,Learn About Nutrition For Fitness
+Sad,Reading,Explore Something Interesting About Reading
+Happy,Other,Try A New Hobby
+Sad,Learning,Explore Something Interesting About Learning
+Surprised,Learning,Explore Something Interesting About Learning
+Sad,Gaming,Explore Something Interesting About Gaming
+Sad,Other,Learn A Fun Fact Today
+Neutral,Other,Try A New Hobby
+Happy,Travel,Explore Something Interesting About Travel
+Sad,Sports,Read About A Famous Athlete
+Happy,Art,Visit An Online Art Gallery
+Surprised,Travel,Explore Something Interesting About Travel
+Neutral,Reading,Explore Something Interesting About Reading
