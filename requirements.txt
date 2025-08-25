@@ -4,3 +4,5 @@ opencv-python
 fer
 scikit-learn
 reportlab
+moviepy
+
