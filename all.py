@@ -2,7 +2,6 @@ import cv2
 from fer import FER
 import streamlit as st
 import pandas as pd
-import random
 import pickle
 
 # --------- Load trained KNN and encoders ----------
@@ -19,9 +18,34 @@ with open("interest_encoder.pkl", "rb") as f:
 df = pd.read_csv("CleanedDataset_Recommendation.csv")
 
 # --------- Streamlit App ----------
+st.set_page_config(page_title="Mood Detection", layout="centered")
 st.title("😊 Mood-Based Tips Recommendation")
 
-# Session state to remember detected mood & camera
+# --------- Background Image ----------
+import base64
+
+def set_bg_local(image_file):
+    with open(image_file, "rb") as f:
+        encoded = base64.b64encode(f.read()).decode()
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("data:image/jpg;base64,{encoded}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Use the function
+set_bg_local("C:/Users/USER/OneDrive/Pictures/Screenshots/Screenshot 2025-09-01 141511.png")
+
+
+# --------- Session state to remember detected mood & camera ----------
 if "detected_mood" not in st.session_state:
     st.session_state.detected_mood = None
 if "camera_running" not in st.session_state:
@@ -36,7 +60,7 @@ if st.button("🎥 Start Webcam"):
 if st.button("❌ Close Webcam"):
     st.session_state.camera_running = False
 
-# Webcam detection
+# --------- Webcam detection ----------
 if st.session_state.camera_running:
     detector = FER(mtcnn=False)
     cap = cv2.VideoCapture(0)
@@ -81,11 +105,11 @@ if st.session_state.camera_running:
     cap.release()
     cv2.destroyAllWindows()
 
-# Show detected mood after webcam is closed
+# --------- Show detected mood after webcam is closed ----------
 if not st.session_state.camera_running and st.session_state.detected_mood:
     st.success(f"✅ Detected Mood: **{st.session_state.detected_mood}**")
 
 # --------- Redirect to tips page ----------
 if st.session_state.detected_mood:
     if st.checkbox("✨ Do you want tips for mood improvement?"):
-        st.switch_page("pages/tips_page.py")
+        st.switch_page("pages/tips_page.py")  # no .py in Streamlit
